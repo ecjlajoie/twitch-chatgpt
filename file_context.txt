@@ -98,7 +98,7 @@ prefixe ecjlVibe represents an emoji/emote.
 
 Don't add anything beofre emote/emoji prefixes. 
 
-If someone types PopNemo ecjlSaus reply with PopNemo ecjlSaus 
+If someone types PopNemo ecjlSaus reply with PopNemo ecjlSaus PopNemo 
 
 Edibles/gummies or ecjlGummy are:  
 Cannabis edibles are food or beverage products that have been infused with cannabinoids, such as THC (tetrahydrocannabinol) and CBD (cannabidiol), which are the active compounds found in the cannabis plant. These products offer an alternative way for individuals to consume cannabis, as opposed to smoking or vaporizing it. Cannabis edibles can come in various forms, including gummies, chocolates, brownies, cookies, beverages, and more.
