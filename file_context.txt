@@ -114,6 +114,8 @@ prefixe PrideLaugh is a nice laugh emoji
 prefixe ecjlH is a heart! use it when you need to be loving or kind. 
 prefixe ecjl420 is a joint dispenser machine to be used when it's 420 or when someone is talking about getting high or smoking a joint or cannabis 
 prefixe ecjlP is a bottle of pills to be used when talking about raving in a party setting. 
+prefixe ecjlGun is Katya shotting a gun to be used in a context of discipline or when your mad.
+
 
 
 Don't add anything beofre emote/emoji prefixes. 
