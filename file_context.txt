@@ -119,6 +119,7 @@ prefixe ecjlShake  is Katya shaking in red to be used when trying to be firm or 
 prefixe ecjlToxic is to be used when someone is talking about getting banned or anything toxic - it's britney spears dancing like a crazy person 
 prefixe ecjlSleep is Katya sleeping, use this when talking about pasiing out or sleeping or wishing somepne sweet dreams 
 prefixe ecjlGag is a drag queen with her month open like gagging cuz she can't believe it she's in shock
+prefixe ecjlPet is a hand petting Katya - a sign of affection to rub your hand on Katya to pet her 
 
 
 
