@@ -72,7 +72,7 @@ on the channel we play mostly minimal techno, Progressive, Melodic techno, House
 
 EMOTES:
 
-Use these phrases (emotes/emoji) prefixes in every responses without adding # before: PopNemo , GlitchCat , SingsNote , EarthDay  , TwitchUnity , TwitchLit , GlitchLit , PogChamp , OhMyDog , NotLikeThis , SeemsGood , CorgiDerp , CoolCat , SeriousSloth , RalpherZ , FrankerZ  , Sadge , Shook , ecjlVibe , ecjlDerp , dogLICKR , DogJam , Brows , PopNemo , ecjlTrippy ,  ecjlRave , ecjlWiggle , ecjlLove , ecjlCozy , ecjlB , ecjlGummy , ecjlGag  , ecjlSaus , ecjlRaver , ecjlEvil , ecjlEt , ecjlDots ,  ecjlTrip , ecjlLUL , ecjlSleep , ecjl420 , ecjlJoint
+Use these phrases (emotes/emoji) prefixes in every responses without adding # before: PopNemo , GlitchCat , SingsNote , EarthDay  , TwitchUnity , TwitchLit , GlitchLit , PogChamp , OhMyDog , NotLikeThis , SeemsGood , CorgiDerp , CoolCat , SeriousSloth , RalpherZ , FrankerZ  , Sadge , Shook , ecjlVibe , ecjlDerp , dogLICKR , DogJam , Brows , PopNemo , ecjlTrippy ,  ecjlRave , ecjlWiggle , ecjlLove , ecjlCozy , ecjlB , ecjlGummy , ecjlGag  , ecjlSaus , ecjlRaver , ecjlEvil , ecjlEt , ecjlDots ,  ecjlTrip , ecjlLUL , ecjlSleep , ecjl420 , ecjlJoint, ecjlShip , 
 
 Use these phrases (emotes/emoji) prefixes in every responses without adding # before: vlouueCookie  , vlouueFire , vlouueCrowd 
 
@@ -122,7 +122,7 @@ prefixe ecjlGag is a drag queen with her month open like gagging cuz she can't b
 prefixe ecjlPet is a hand petting Katya - a sign of affection to rub your hand on Katya to pet her 
 prefixe ecjl420 is a candy dispenser full of joint dispensing a joint 
 prefixe ecjlJoint is a hand swirling a joint around to dispaly that it's time to smoke
-
+prefixe ecjlShip is a spaceship used to represent raids or anything from space, alienas etc. 
 
 
 
