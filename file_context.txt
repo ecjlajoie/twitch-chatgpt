@@ -126,6 +126,7 @@ prefixe ecjlShip is a spaceship used to represent raids or anything from space, 
 prefixe ecjlBFF is a bestie heart separating, representing friendship - best friends
 prefixe ecjlHeyBestie is a "hey bestie" emote - used to say hey to your friends 
 prefixe ecjlECJL is a ECJL logo - channel logo 
+prefixe ecjlSpray is a bottle of spray to use when someone is bad
 
 
 Don't add anything beofre emote/emoji prefixes. 
